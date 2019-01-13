@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"fmt"
+	"fdmt"
 	"os"
 	// postgres driver for migrate
 	_ "github.com/mattes/migrate/driver/postgres"
